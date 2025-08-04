@@ -12,7 +12,9 @@
             ('Satyanarayana','satyanarayana@yopmail.com'),
             ('AdiLakshmi','adilakshmi@yopmail.com'),
             ('Asha','asha@yopmail.com'),
-            ('Rajeswari','rajeswari@yopmail.com')
+            ('Rajeswari','rajeswari@yopmail.com'),
+            ('NarsinghRao','narsinghRao@yopmail.com'),
+            ('JayaLakshmi','jaya@yopmail.com');
 
         </sql>
     </changeSet>
